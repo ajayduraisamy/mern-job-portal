@@ -32,17 +32,7 @@ A full-featured job portal built using the MERN (MongoDB, Express.js, React, Nod
 - Multer (File Uploads)
 - JWT for Auth
 
----
 
-## 📁 Folder Structure
-mern-job-portal/
-├── backend/ # Node.js Express API
-├── frontend/ # React + Vite UI
-└── README.md
-
-
-
----
 
 ## 🧪 Getting Started Locally
 
