@@ -1,10 +1,10 @@
-# 💼 MERN Job Portal Application
+#  MERN Job Portal Application
 
 A full-featured job portal built using the MERN (MongoDB, Express.js, React, Node.js) stack, allowing users to browse, apply, and manage job postings. Includes role-based dashboards for Admin, Recruiters, and Job Seekers.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🔐 **Authentication & Authorization** (Login, Register, Role-based Access)
 
