@@ -44,7 +44,7 @@ npm install
 # Create a .env file and add MONGO_URI, JWT_SECRET, PORT, etc.
 npm run dev
 
-
+### ⚙️ frontend
 cd frontend
 npm install
 npm run dev
